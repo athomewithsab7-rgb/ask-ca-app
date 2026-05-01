@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "859d4096-25e5-4f83-b560-887597c4c2c0"
+      }
+    },
+    "android": {
+      "package": "com.athome777askcaapp"
+    }
+  }
+}

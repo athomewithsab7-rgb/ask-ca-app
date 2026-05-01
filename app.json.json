@@ -1,0 +1,8 @@
+"androidStatusBar": {
+  "backgroundColor": "#000000"
+},
+"android": {
+  "adaptiveIcon": {
+    "backgroundColor": "#ffffff"
+  }
+}
